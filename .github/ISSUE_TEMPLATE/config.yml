@@ -1,0 +1,16 @@
+# Define Issue Template Settings
+blank_issues_enabled: false # Force Template Usage
+contact_links:
+  # Set External Links to show on issue creation
+  # TODO: Update github repo-URL 
+  # Does not support Relative Paths / Links [tested]
+  - name: Contribution Guidelines
+    url: https://github.developer.allianz.io/if06-sdr/os-project-template/blob/main/CONTRIBUTING.md
+    about: Please review our Contribution guidelines befor submitting an Issue
+  - name: Code of Conduct
+    url: https://github.developer.allianz.io/if06-sdr/os-project-template/blob/main/CODE_OF_CONDUCT.md
+    about: Please review our Community Code of Conduct
+  - name: Security Guide
+    url: https://github.developer.allianz.io/if06-sdr/os-project-template/blob/main/SECURITY.md
+    about: Please review our Security Guide for Vulnerability Reporting
+  
