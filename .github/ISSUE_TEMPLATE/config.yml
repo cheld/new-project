@@ -2,5 +2,5 @@ blank_issues_enabled: true # Force Template Usage
 contact_links:
   - name: Ask a questions
     #TODO update link
-    url: https://github.com/cheld/test_issue_pr/discussions/categories/q-a
+    url: https://github.com/cheld/ospo/discussions/categories/q-a
     about: Get help in the support forum
