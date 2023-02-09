@@ -2,7 +2,7 @@
 name: 💡 Suggest a feature
 description: Suggest a new feature for contribution
 title: "[Feature] <title> "
-labels: ["feature", "suggestion"]
+labels: ["enhancement"]
 
 body:
   ## Introduction 
