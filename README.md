@@ -33,6 +33,7 @@ Required Files:
 * LICENSE-template (rename to LICENSE)
 * CONTRIBUTING.md
 * README-template.md (rename to README.md)
+* .github/workflow/repolinter.yaml
 * CODE-OF-CONDUCT.md 
 * SECURITY.md 
 
