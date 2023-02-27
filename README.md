@@ -36,6 +36,7 @@ Required Files:
 * CODE-OF-CONDUCT.md 
 * SECURITY.md 
 * .github/workflows/repolinter.yaml
+* .github/repolinter.yaml
 
 Optional Files:
 * CHANGELOG.md
