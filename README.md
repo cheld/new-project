@@ -35,6 +35,8 @@ Required Files:
 * README-template.md (rename to README.md)
 * CODE-OF-CONDUCT.md 
 * SECURITY.md 
+* .github/workflows/repolinter.yaml
+* .github/repolinter.yaml
 
 Optional Files:
 * CHANGELOG.md
